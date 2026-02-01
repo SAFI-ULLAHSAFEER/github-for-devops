@@ -1,0 +1,4 @@
+3 Stages in git
+first one is untracked files you cannot recover it if deleted
+second one is stagging area which gives you an option to choose wheather commit  it or go to previous unstaged
+third one is tracked files where you keep tracked of all files
