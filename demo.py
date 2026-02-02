@@ -1,2 +1,3 @@
-a=4
-print(a)
+"""Simple demo module that prints Hello world."""
+
+print("Here is demo file")
